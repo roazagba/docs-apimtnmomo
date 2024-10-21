@@ -1,13 +1,23 @@
 # Configuration
 
+Exécutez la commande ci-dessous pour publier les ressources du package.
+
 ```bash
 php artisan vendor:publish --provider="Roazagba\ApiMTNMomo\Providers\MTNMoMoServiceProvider" --tag="config"
 ```
 
 ### Créer un environnement sandbox utilisateur API ainsi que la clé secrète API.
 
+Exécutez la commande ci-dessous pour créer un utilisateur API sandbox et sa clé secrète API.
+
 ```bash
 php artisan momo:create-api-user {baseURL} {primaryKey} {providerCallbackHost}
+```
+
+Exemple:
+
+```bash
+php artisan momo:create-api-user https://sandbox.momodeveloper.mtn.com/ your_product_primary_key https://your-callback-url.com
 ```
 
 - **baseURL** : L'URL de base pour l'API. Dans cet exemple, elle pointe vers l'environnement de test (sandbox) de MTN MoMo Developer qui est **https://sandbox.momodeveloper.mtn.com/**. Cela permet de définir l'URL de l'API à utiliser, que ce soit en mode test ou production.
@@ -15,12 +25,6 @@ php artisan momo:create-api-user {baseURL} {primaryKey} {providerCallbackHost}
 - **primaryKey** : La clé primaire de l'API du produit (collection, disbursement, remittance), nécessaire pour effectuer des transactions avec le service de collecte. Elle est utilisée pour identifier l'application qui effectue les transactions.
 
 - **providerCallbackHost** : L'URL vers laquelle les notifications ou retours d'informations seront envoyés.
-
-Exemple:
-
-```bash
-php artisan momo:create-api-user https://sandbox.momodeveloper.mtn.com/ your_product_primary_key https://your-callback-url.com
-```
 
 Après exéxution de la commande vous aurez une réponse en console :
 
