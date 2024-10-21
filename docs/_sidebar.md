@@ -1,6 +1,6 @@
 - Commencer
 
-  - [A propos](Readme.md)
+  - [A propos](README.md)
   - [Pré-requis](requis.md)
   - [Installation](installation.md)
   - [Configuration](configuration.md)
