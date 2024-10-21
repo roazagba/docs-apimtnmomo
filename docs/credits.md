@@ -15,6 +15,8 @@
 - Facebook: [https://facebook.com/rozagba](https://facebook.com/rozagba)
 - Instagram: [https://instagram.com/rozagba](https://instagram.com/rozagba)
 - X: [https://x.com/rozagba](https://x.com/rozagba)
+- Email pro: [ana@roazagba.me](mailto:ana@roazagba.me)
+- Gmail: [roazagba@gmail.com](mailto:roazagba@gmail.com)
 
 # Licence
 
