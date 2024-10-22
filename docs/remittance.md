@@ -1,3 +1,3 @@
-# Remittance
+# Envois de fonds
 
 > Coming Soon

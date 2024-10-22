@@ -8,9 +8,9 @@
 
 - Produits
 
-  - [Collection](collection.md)
-  - [Disbursement](disbursement.md)
-  - [Remittance](remittance.md)
+  - [Encaissement](collection.md)
+  - [Décaissement](disbursement.md)
+  - [Envois de fonds](remittance.md)
 
 - Crédits
   - [Crédits](credits.md)
