@@ -21,7 +21,18 @@ $params = [
     'note' => 'newtransaction'
 ];
 
-$transactionId = $collection->createTransaction($params);
+$custom_params = [
+    'firstname' => 'Ro',
+    'lastname' => 'AZ',
+    'email' => 'roazagba@gmail.com',
+    'anotherField' => 'anotherValue'
+];
+
+$createTransaction = $collection->createTransaction($params, $custom_params);
+
+$transactionId = $createTransaction['transactionId'];
+
+$customParams = $createTransaction['customParams'];
 ```
 
 **getTransaction()** opération permettant de récupérer les détails de la transaction et du statut
