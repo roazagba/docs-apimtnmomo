@@ -12,7 +12,7 @@
 
 > Permet à tes clients d’utiliser l’API MoMo. Ajoute une nouvelle source de revenus à ton entreprise tout en offrant plus d’options à tes clients. Utilise l’API MoMo pour intégrer une gamme de produits pour la fintech, le commerce électronique, les paiements et les recouvrements.
 
-!> **Info:** Ce package vous permet d'intégrer directement et facilement l'API MTN MoMo pour Laravel sans utiliser un quelconque agrégateur de paiement, d'avoir le contrôle sur vos transactions et de ne plus payer les frais de transactions supplémentaires des agrégateurs.
+!> **Info:** Ce package vous permet d'intégrer directement et facilement l'API MTN MoMo pour Laravel et Python sans utiliser un quelconque agrégateur de paiement, d'avoir le contrôle sur vos transactions et de ne plus payer les frais de transactions supplémentaires des agrégateurs.
 
 !> **NB:** Mode Sandbox utilisé. Pour passer en mode production veuillez me contactez à [ana@roazagba.me](mailto:ana@roazagba.me)
 
