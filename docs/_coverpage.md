@@ -1,4 +1,4 @@
-![logo](_media/favicon.svg)
+![logo](_media/logo.svg)
 
 # Package API MTN MoMo
 
