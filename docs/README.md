@@ -6,9 +6,13 @@
 
 # A propos
 
-### API MTN MoMo (Collection, Disbursement, Remittance) pour Laravel
+![Logo MTN MoMo](https://uploads-eu-west-1.insided.com/mtngroup-en/attachment/96f3ec28-bc42-49ee-be5d-6ed5345e516c_thumb.png)
 
-!> **Info:** Ce package vous permet d'intégrer directement l'API MTN MoMo pour Laravel sans utiliser un quelconque agrégateur de paiement, d'avoir le contrôle sur vos transactions et de ne plus payer les frais de transactions supplémentaires des agrégateurs.
+### API MTN MoMo (Encaissement, Décaissement, Envois de fonds) pour Laravel
+
+> Permet à tes clients d’utiliser l’API MoMo. Ajoute une nouvelle source de revenus à ton entreprise tout en offrant plus d’options à tes clients. Utilise l’API MoMo pour intégrer une gamme de produits pour la fintech, le commerce électronique, les paiements et les recouvrements.
+
+!> **Info:** Ce package vous permet d'intégrer directement et facilement l'API MTN MoMo pour Laravel sans utiliser un quelconque agrégateur de paiement, d'avoir le contrôle sur vos transactions et de ne plus payer les frais de transactions supplémentaires des agrégateurs.
 
 !> **NB:** Mode Sandbox utilisé. Pour passer en mode production veuillez me contactez à [ana@roazagba.me](mailto:ana@roazagba.me)
 
