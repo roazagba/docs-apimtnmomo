@@ -8,7 +8,7 @@
 
 ![Logo MTN MoMo](https://uploads-eu-west-1.insided.com/mtngroup-en/attachment/96f3ec28-bc42-49ee-be5d-6ed5345e516c_thumb.png)
 
-### API MTN MoMo (Encaissement, Décaissement, Envois de fonds) pour Laravel
+### API MTN MoMo (Encaissement, Décaissement, Envois de fonds)
 
 > Permet à tes clients d’utiliser l’API MoMo. Ajoute une nouvelle source de revenus à ton entreprise tout en offrant plus d’options à tes clients. Utilise l’API MoMo pour intégrer une gamme de produits pour la fintech, le commerce électronique, les paiements et les recouvrements.
 
