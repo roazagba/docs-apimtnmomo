@@ -1,6 +1,6 @@
 # Collection
 
-```py
+```python
 from raapimtnmomo.config import MTNMoMoConfig
 from raapimtnmomo.mtn_momo_collection import MTNMoMoCollection
 import random
