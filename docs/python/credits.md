@@ -1,10 +1,6 @@
 # Crédits
 
-- [Dépot Github](https://github.com/roazagba/apimtnmomo)
-
-# Contribution
-
-- Pour contribuer au projet, voir [Contribution](https://github.com/roazagba/apimtnmomo/blob/main/CONTRIBUTING.md) pour plus de d'inforamations.
+- [Dépot Github](https://github.com/roazagba/apimtnmomo-python)
 
 # Connectez-vous avec moi
 
@@ -20,4 +16,4 @@
 
 # Licence
 
-API MTN MoMo est un package open source sous licence MIT (MIT). Veuillez consulter le fichier de [Licence](https://github.com/roazagba/apimtnmomo/blob/main/LICENSE.md) pour plus d'informations.
+API MTN MoMo est un package open source sous licence MIT (MIT). Veuillez consulter le fichier de [Licence](https://github.com/roazagba/apimtnmomo-python/blob/main/LICENSE) pour plus d'informations.

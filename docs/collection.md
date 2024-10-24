@@ -1,6 +1,6 @@
 # Collection
 
-```php
+```python
 use Roazagba\ApiMTNMomo\MTNMoMoConfig;
 use Roazagba\ApiMTNMomo\Products\MTNMoMoCollection;
 
