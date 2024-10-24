@@ -6,5 +6,5 @@
 - pip
 
 ```bash
-pip install -i https://test.pypi.org/simple/ raapimtnmomo
+pip install raapimtnmomo
 ```
