@@ -11,4 +11,4 @@ composer require roazagba/apimtnmomo
 
 ### Packagist
 
-[https://packagist.org/packages/roazagba/apimtnmomo](https://packagist.org/packages/roazagba/apimtnmomo)
+[packagist.org/packages/roazagba/apimtnmomo](https://packagist.org/packages/roazagba/apimtnmomo)
