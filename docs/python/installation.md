@@ -8,3 +8,7 @@
 ```bash
 pip install raapimtnmomo
 ```
+
+### Pypi
+
+[https://pypi.org/project/raapimtnmomo](https://pypi.org/project/raapimtnmomo)
