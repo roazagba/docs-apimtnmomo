@@ -1,4 +1,4 @@
 - Choisir Technologie
 
-  - [Laravel](/README)
+  - [Laravel](/laravel/installation)
   - [Python](/python/installation)

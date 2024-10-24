@@ -1,16 +1,7 @@
-- Laravel
-- Commencer
+- A propos
+  - [A propos](/README)
+  - [Pré-requis](/requis)
+- Choisir Technologie
 
-  - [A propos](README.md)
-  - [Pré-requis](requis.md)
-  - [Installation](installation.md)
-  - [Configuration](configuration.md)
-
-- Produits
-
-  - [Encaissement](collection.md)
-  - [Décaissement](disbursement.md)
-  - [Envois de fonds](remittance.md)
-
-- Crédits
-  - [Crédits](credits.md)
+  - [Laravel](/laravel/installation)
+  - [Python](/python/installation)
