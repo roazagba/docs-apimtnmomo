@@ -1,5 +1,7 @@
 # Collection
 
+!> Pour ce produit j'ai laissé, certains APIs pour permettre à d'autres de contribuer. Les APIs importants ci-dessous.
+
 ```python
 from raapimtnmomo.config import MTNMoMoConfig
 from raapimtnmomo.mtn_momo_collection import MTNMoMoCollection
