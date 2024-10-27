@@ -24,7 +24,7 @@ php artisan momo:create-api-user https://sandbox.momodeveloper.mtn.com/ your_pro
 
 - **primaryKey** : La clé primaire de l'API du produit (collection, disbursement, remittance), nécessaire pour effectuer des transactions avec le service de collecte. Elle est utilisée pour identifier l'application qui effectue les transactions.
 
-- **providerCallbackHost** : L'URL vers laquelle les notifications ou retours d'informations seront envoyés.
+- **providerCallbackHost** : L'URL de rappel vers laquelle les notifications ou retours d'informations seront envoyés. NB: Utile en production pour l'API de demande de paiement et de transfert car ces APIs sont asynchrones.
 
 Après exéxution de la commande vous aurez une réponse en console :
 
